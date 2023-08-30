@@ -100,4 +100,5 @@ const styles = StyleSheet.create({
     top: -9,
     left: 9
   }
+  
 });
